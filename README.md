@@ -172,6 +172,11 @@ Examples:
 
 ---
 
+# output
+
+![AWS Three Tier Architecture](store_output.jpeg)
+
+
 # Learning Outcomes
 
 This project helped me understand:
