@@ -69,6 +69,10 @@ Public subnets contain:
 
 These resources allow secure communication with the internet.
 
+![AWS Three Tier Architecture](instances.jpeg)
+![AWS Three Tier Architecture](NAT_Gateway.jpeg)
+![AWS Three Tier Architecture](ALB.jpeg)
+
 ---
 
 ## Web Tier
@@ -81,6 +85,10 @@ Features:
 - Auto Scaling Group
 - Private Web Subnets
 - External Load Balancer
+
+![AWS Three Tier Architecture](ASG.jpeg)
+![AWS Three Tier Architecture](vpc_resource_map.jpeg)
+![AWS Three Tier Architecture](prod-tier-sg.jpeg)
 
 ---
 
@@ -106,6 +114,9 @@ Features:
 - Amazon RDS
 - Multi-AZ Deployment
 - DB Subnet Group
+
+![AWS Three Tier Architecture](db_instance.jpeg)
+![AWS Three Tier Architecture](db_snet_grp.jpeg)
 
 ---
 
