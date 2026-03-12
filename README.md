@@ -57,6 +57,7 @@ The following AWS services were used in this project:
 ## VPC
 A custom **Virtual Private Cloud (VPC)** is created to isolate the infrastructure.
 
+![AWS Three Tier Architecture](vpc.jpeg)
 ---
 
 ## Public Subnets
